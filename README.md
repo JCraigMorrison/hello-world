@@ -1,3 +1,3 @@
 # hello-world
 Douglas fir: Pseudotsuga menziesii.
-Time spent amongst trees
+Time spent amongst trees.
